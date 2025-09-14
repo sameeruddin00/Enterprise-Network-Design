@@ -27,7 +27,7 @@ This repository showcases a project on building a robust, scalable, and secure n
 ## Technologies Used
 - **Tools**: Cisco Packet Tracer
 - **Protocols**: OSPF, VLAN, NAT, DHCP
-- **Security**: ACLs, 
+- **Security**: ACLs, SSH
 
 
 ## Results
