@@ -24,10 +24,6 @@ This repository showcases a project on building a robust, scalable, and secure n
   - Remote access and management enabled for IT staff.
 
 
-## Technologies Used
-- **Tools**: Cisco Packet Tracer
-- **Protocols**: OSPF, VLAN, NAT, DHCP
-- **Security**: ACLs, SSH
 
 
 ## Results
