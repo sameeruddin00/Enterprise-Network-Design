@@ -48,9 +48,4 @@ This repository showcases a project on building a robust, scalable, and secure n
 
 
 
-## Future Enhancements
-- Expanding the network to support more floors or departments.
-- Integrating advanced security measures like IDS/IPS.
-- Exploring automation using Python for device configurations.
-
 
